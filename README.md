@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hiza Tariq
-- 👀 I’m interested in web development and exploring new technologies 
-- 🌱 I’m currently pursing a degree in software Engineering 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Artificial Intelligence and Android Development
+- 🌱 I’m currently pursing a degree in software Engineering
 - 📫 How to reach me?
 You can contact me at bsef19m505@pucit.edu.pk 
 
