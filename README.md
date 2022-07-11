@@ -10,9 +10,9 @@ My Projects:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=COVID-Screening"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=Mobile-Computing"/>
 Connect With Me:
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hizatariq/)]
-<a href="https://medium.com/@zluvsand">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+
+<a href="https://www.linkedin.com/in/hizatariq/">
+    <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </a>
 <!---
 HizaTariq/HizaTariq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
