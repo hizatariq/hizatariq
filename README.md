@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on Web Development
 - 📫 How to reach me?
 You can contact me at tariqhiza2@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=HizaTariqand&show_icons=true"/>
 
 <!---
 HizaTariq/HizaTariq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
