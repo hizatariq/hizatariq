@@ -12,11 +12,11 @@
                     color: red;
                 }
                 to {
-                    color: yellow;
+                    color: blue;
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1>HEY FOLKS!</h1>
         </div>
     </foreignObject>
 </svg>
