@@ -9,10 +9,10 @@
 
             @keyframes mymove {
                 from {
-                    color: red;
+                    color:rgb(120,0,0);
                 }
                 to {
-                    color: blue;
+                    color:rgb(165, 253, 253);
                 }
             }
             </style>
