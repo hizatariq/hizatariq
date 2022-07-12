@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="example.svg" width="300" height="300" alt="css-in-readme">
+    <img src="hey.svg" width="300" height="300" alt="css-in-readme">
 </div>
 - 👀 My Name is Hiza Tariq
 - :computer: My interset lies in Artificial Intelligence and Blockchain Development
