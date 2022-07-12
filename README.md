@@ -1,10 +1,14 @@
-- 👋 My Name is Hiza Tariq
-- 👀 I’m interested in Artificial Intelligence and Blockchain Development
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+- 👀 My Name is Hiza Tariq
+- :computer: My interset lies in Artificial Intelligence and Blockchain Development
 - 🌱 I’m currently working on Web Development
 - 📫 I am always happy to collaborate. You can contact me at tariqhiza2@gmail.com
 - ---------------------------------------------------------------------------------
 
-- Languages I Use:
+Languages I Use:
+ 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
