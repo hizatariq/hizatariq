@@ -4,8 +4,8 @@
             <style>      
 .light{
     font-size=100px;
-    color:rgb(0,238,255);
-   background:#000;
+    color:red;
+  
     font-weight:bold;	
     position: relative;
         
