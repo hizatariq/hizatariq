@@ -3,8 +3,10 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>      
 .light{
+                
+    background-image: url("https://pin.it/1uhJEHh")
     font-size=100px;
-    color:red;
+    color:yellow;
     font-weight:bold;	
     position: relative;
         
@@ -20,19 +22,19 @@
         filter:blur(1px) brightness(0)
     }
     6%{
-        filter:blur(1px) brightness(0)
+        filter:blur(1px) brightness(1)
     }
     7%{
-        filter:blur(1px) brightness(1)
+        filter:blur(1px) brightness(0)
     }
     8%{
-        filter:blur(1px) brightness(0)
-    }
-    9%{
         filter:blur(1px) brightness(1)
     }
-    10%{
+    9%{
         filter:blur(1px) brightness(0)
+    }
+    10%{
+        filter:blur(1px) brightness(1)
     }
     20%{
         filter:blur(1px) brightness(1)
