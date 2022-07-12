@@ -3,10 +3,9 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>      
 .light{
-                
-    background-image: url("https://pin.it/1uhJEHh")
+               
     font-size=100px;
-    color:yellow;
+    color:red;
     font-weight:bold;	
     position: relative;
         
@@ -41,7 +40,7 @@
     }
     
 }</style>
-            <h1 class="light">HEY!</h1>
+            <h1 class="light" style="background-image: url('https://github.com/HizaTariq/HizaTariq/blob/35fa507805481800c5d8ab62202c2262e0755b69/pexels-daniel-putzer-633409.jpg')">HEY!</h1>
         </div>
 
 
