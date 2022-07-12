@@ -1,16 +1,22 @@
  <div align="left">
   <img src="hello.svg" width="300" height="300" alt="css-in-readme"></div>
-	
--> 👀 My Name is Hiza Tariq
+	<details>
+    <summary><b>✨About Me</b></summary><br/>
+    Sample text
+</details>
 
--> :computer: My interset lies in Artificial Intelligence and Blockchain Development
+-> 👀 My Name is Hiza Tariq and I am a software Engineering Undergraduate at PUCIT
 
 -> 🌱 I’m currently working on Web Development
 
--> 📫 I am always happy to collaborate. You can contact me at tariqhiza2@gmail.com
-- ---------------------------------------------------------------------------------------------------------------------------------------------
+-> :computer: My interset lies in Artificial Intelligence and Blockchain Development
 
-:sparkles:**Languages I Use:**
+-> 📫 I love to work and collaborate with others 
+- ---------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    Sample text
+</details>
 <br>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -31,15 +37,21 @@
 		 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HizaTariq&layout=compact"/>
 </br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HizaTariq"/>
-</br>																																																																																</br>
-:sparkles:**My Projects:**
+</br>																			</br>
 </br>
+<details>
+    <summary><b>Projects</b></summary><br/>
+    Sample text
+</details>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=COVID-Screening"/>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=Mobile-Computing"/>
 </br></br>
-:sparkles:**Connect With Me:**
+<details>
+    <summary><b>Connect With Me</b></summary><br/>
+    Sample text
+</details>
 </br> </br>
 <a href="https://www.linkedin.com/in/hizatariq/">
     <img height="20" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
