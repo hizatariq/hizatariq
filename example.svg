@@ -5,7 +5,6 @@
 .light{
     font-size=100px;
     color:red;
-  
     font-weight:bold;	
     position: relative;
         
