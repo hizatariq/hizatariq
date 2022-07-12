@@ -1,22 +1,49 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+            <style>        
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
+.light{
+    font-size=100px;
+    color:rgb(0,238,255);
+   
+    font-weight:bold;	
+    position: relative;
+        
+    filter: blur(1px) brightness(0);
+    animation: flicker 2s infinite;
+    animation-delay: 1s;
+}
+@keyframes flicker {
+    0%{
+        filter:blur(1px) brightness(1)
+    }
+    3%{
+        filter:blur(1px) brightness(0)
+    }
+    6%{
+        filter:blur(1px) brightness(0)
+    }
+    7%{
+        filter:blur(1px) brightness(1)
+    }
+    8%{
+        filter:blur(1px) brightness(0)
+    }
+    9%{
+        filter:blur(1px) brightness(1)
+    }
+    10%{
+        filter:blur(1px) brightness(0)
+    }
+    20%{
+        filter:blur(1px) brightness(1)
+    }
+    
+}</style>
+            <h1 class="light">HEY!</h1>
         </div>
+
+
     </foreignObject>
 </svg>
