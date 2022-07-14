@@ -33,10 +33,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"  width="5%"  /> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-     </br></br><img src="https://github-readme-stats.vercel.app/api?username=HizaTariq&show_icons=true&theme=dark"/></br></br>
-		 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HizaTariq&layout=compact"/>
+     </br></br><img src="https://github-readme-stats.vercel.app/api?username=BSEF19M505&show_icons=true&theme=dark"/></br></br>
+		 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BSEF19M505&layout=compact"/>
 </br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HizaTariq"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BSEF19M505"/>
 </br>																			</br>
 </br>
 <details>
@@ -44,9 +44,9 @@
     Sample text
 </details>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=COVID-Screening"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEF19M505&repo=COVID-Screening-App"/>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HizaTariq&repo=Mobile-Computing"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEf19M505&repo=Mobile-Computing"/>
 </br></br>
 <details>
     <summary><b>Connect With Me</b></summary><br/>
