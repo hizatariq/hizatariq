@@ -44,7 +44,7 @@
     Sample text
 </details>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEF19M505&repo=COVID-Screening-App"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEF19M505&repo=COVID-19-Screening-App"/>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEf19M505&repo=Mobile-Computing"/>
 </br></br>
