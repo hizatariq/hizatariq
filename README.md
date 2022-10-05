@@ -5,13 +5,14 @@
     Sample text
 </details>
 
--> 👀 My Name is Hiza Tariq and I am a software Engineering Undergraduate at PUCIT
+-> 👀 My Name is Hiza Tariq and I am a software Engineering Undergraduate at FCIT
 
--> 🌱 I’m currently working on Web Development
+-> 🌱 I’m currently working on Artificial Intelligence
 
 -> :computer: My interset lies in Artificial Intelligence and Blockchain Development
 
--> 📫 I love to work and collaborate with others 
+-> 📫 I love to work and collaborate with others.
+      You can reach out to me at bsef19m505@pucit.edu.pk
 - ---------------------------------------------------------------------------------------------------------------------------------------------
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
