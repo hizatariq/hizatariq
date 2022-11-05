@@ -15,10 +15,11 @@
       You can reach out to me at bsef19m505@pucit.edu.pk
 - ---------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-	 <summary><b>Badges</b></summary><br/>[![@hizatariq's Holopin board]
-	<code><img src="https://holopin.me/hizatariq"></code>
-	(https://holopin.io/@hizatariq)
+	 <summary><b>Badges</b></summary><br/>
 	</details>
+	<code><img src="https://holopin.me/hizatariq"></code>
+	<code><img src="https://holopin.io/@hizatariq"></code>
+	
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     Sample text
