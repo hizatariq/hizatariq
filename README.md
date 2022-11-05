@@ -17,8 +17,8 @@
 <details>
 	 <summary><b>Badges</b></summary><br/>
 	</details>
+	<code><img src="https://holopin.me/hizatariq"></code>
 	
-	<code><img src="https://holopin.io/@hizatariq"></code>
 	
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
