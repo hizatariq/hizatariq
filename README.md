@@ -15,8 +15,9 @@
       You can reach out to me at bsef19m505@pucit.edu.pk
 - ---------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-	[![@hizatariq's Holopin board]
-	(https://holopin.me/hizatariq)](https://holopin.io/@hizatariq)
+	 <summary><b>Badges</b></summary><br/>[![@hizatariq's Holopin board]
+	<code><img src="https://holopin.me/hizatariq"></code>
+	(https://holopin.io/@hizatariq)
 	</details>
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
