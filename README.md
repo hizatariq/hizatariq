@@ -12,7 +12,7 @@
 -> :computer: My interset lies in Artificial Intelligence and Blockchain Development
 
 -> 📫 I love to work and collaborate with others.
-      You can reach out to me at hizatariq2@gmail.com
+      You can reach out to me at hizatariq02@gmail.com
 - ---------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 	 <summary><b>Badges</b></summary><br/>
