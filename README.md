@@ -24,21 +24,7 @@
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     Sample text
 </details>
-<br>
-<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img  width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="5%" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="5%" /></code>
-<br/>
-<br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="8%" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="5%"/></code>
-     </br></br><img src="https://github-readme-stats.vercel.app/api?username=BSEF19M505&show_icons=true&theme=dark"/></br></br>
-		 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BSEF19M505&layout=compact"/>
-</br></br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSEF19M505"/>
 </br>																			</br>
 </br>
