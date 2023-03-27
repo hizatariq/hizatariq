@@ -36,10 +36,6 @@
 <br>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="8%" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="5%"/></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"  width="5%"  /> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
      </br></br><img src="https://github-readme-stats.vercel.app/api?username=BSEF19M505&show_icons=true&theme=dark"/></br></br>
 		 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BSEF19M505&layout=compact"/>
 </br></br>
