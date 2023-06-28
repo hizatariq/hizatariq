@@ -5,11 +5,11 @@
     Sample text
 </details>
 
--> 👀 My Name is Hiza Tariq and I am a software Engineering Undergraduate at FCIT
+-> 👀 My Name is Hiza Tariq and I am a software Engineer
 
--> 🌱 I’m currently working on Artificial Intelligence
+-> 🌱 I’m currently working on Web Development and Data Analytics
 
--> :computer: My interset lies in Artificial Intelligence and Blockchain Development
+//-> :computer: 
 
 -> 📫 I love to work and collaborate with others.
       You can reach out to me at hizatariq02@gmail.com
@@ -25,7 +25,7 @@
     Sample text
 </details>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BSEF19M505"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hizatariq"/>
 </br>																			</br>
 </br>
 <details>
@@ -33,9 +33,9 @@
     Sample text
 </details>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEF19M505&repo=COVID-19-Screening-App"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=COVID-19-Screening-App"/>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BSEf19M505&repo=Mobile-Computing"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=Mobile-Computing"/>
 </br></br>
 <details>
     <summary><b>Connect With Me</b></summary><br/>
