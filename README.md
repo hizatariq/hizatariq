@@ -35,7 +35,7 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=COVID-19-Screening-App"/>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=Mobile-Computing"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=QuranApp"/>
 </br></br>
 <details>
     <summary><b>Connect With Me</b></summary><br/>
