@@ -7,9 +7,9 @@
 
 -> 👀 My Name is Hiza Tariq and I am a software Engineer
 
--> 🌱 I’m currently working on Web Development and Data Analytics
+-> 🌱 I’m currently working on Web Development 
 
-//-> :computer: 
+-> :computer: Interested in  Web Development and Data Analytics
 
 -> 📫 I love to work and collaborate with others.
       You can reach out to me at hizatariq02@gmail.com
