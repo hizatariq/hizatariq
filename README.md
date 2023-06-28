@@ -35,6 +35,7 @@
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=QuranApp"/>
+</br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hizatariq&repo=Mobile-Computing"/>
 </br>
 </br></br>
