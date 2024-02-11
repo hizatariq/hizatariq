@@ -5,11 +5,11 @@
     Sample text
 </details>
 
--> 👀 My Name is Hiza Tariq and I am a software Engineer
+-> 👀 I am Hiza Tariq, an enthusistic software engineer.
 
--> 🌱 I’m currently working on Web Development 
+-> 🌱 I’m currently working on Backend Development.
 
--> :computer: Interested in  Web Development and Data Analytics
+-> :computer: Interested in  Full Stack  Development and Data Analytics.
 
 -> 📫 I love to work and collaborate with others.
       You can reach out to me at hizatariq02@gmail.com
