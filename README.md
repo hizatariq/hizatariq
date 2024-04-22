@@ -11,7 +11,7 @@
 
 -> :computer: Interested in  Full Stack  Development and Data Analytics.
 
--> 📫 I love to work and collaborate with others.
+-> 📫 I love to contribute and collaborate with others.
       You can reach out to me at hizatariq02@gmail.com
 - ---------------------------------------------------------------------------------------------------------------------------------------------
 <details>
