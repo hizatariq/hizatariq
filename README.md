@@ -1,5 +1,5 @@
  <div align="left">
-  <img src="hello.svg" width="300" height="300" alt="css-in-readme"></div>
+  </div>
 	<details>
     <summary><b>✨About Me</b></summary><br/>
     Sample text
